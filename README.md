@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio-
-week2-HW
+# Responsive-Portfolio
+week2-HW-part2
